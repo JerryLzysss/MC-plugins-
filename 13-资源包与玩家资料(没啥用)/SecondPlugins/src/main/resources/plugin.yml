@@ -1,0 +1,9 @@
+name: .dPlugin
+version: '${project.version}'
+main: second.secondplugin.SecondPlugin
+api-version: 1.15
+commands:
+  test:
+    description: My First Command.
+    usage: /<test>
+    permission-message: 你不能执行.

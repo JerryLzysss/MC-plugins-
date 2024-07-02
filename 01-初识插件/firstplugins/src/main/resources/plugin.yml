@@ -1,0 +1,4 @@
+name: FirstPlugins
+version: '${project.version}'
+main: first.firstplugins.FirstPlugins
+api-version: 1.15

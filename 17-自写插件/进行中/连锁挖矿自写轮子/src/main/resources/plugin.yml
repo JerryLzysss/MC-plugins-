@@ -1,0 +1,6 @@
+name: ChainMine
+version: '${project.version}'
+main: pluginone.chainmine.ChainMine
+api-version: 1.15
+author: [Jerrylzysss]
+Description: A plugin idea come fron ChainMine
